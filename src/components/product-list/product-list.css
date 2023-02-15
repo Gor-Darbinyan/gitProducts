@@ -1,0 +1,22 @@
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  }
+
+.form-search input{
+  width: 200px;
+  padding: 10px;
+  margin: 5px 0;
+}
+.form-search{
+  width: 50%;
+  display: inline-block;
+}
+
+.form-search form{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
